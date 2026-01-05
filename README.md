@@ -1,10 +1,17 @@
 # HexSoftwares Internship Tasks
 
-This repository contains all tasks completed during the HexSoftwares Internship.
+This repository contains all tasks completed during the **HexSoftwares Internship Program**.
 
 ## Tasks
-- Task 1: Fibonacci Generator
-- Task 2: Expense Tracker
-- Task 3: Geolocation Tracker
 
-Each task folder includes its own README with details.
+- Geolocation Tracker
+- Expense Tracker
+- Fibonacci Generator
+
+Each task is implemented as per the internship requirements and demonstrates the use of programming concepts and logical problem solving.
+
+## About
+INTERNSHIP TASKS
+
+## Author
+Yaswanth Nadapana
